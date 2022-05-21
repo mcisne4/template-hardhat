@@ -8,6 +8,12 @@ cd my-project
 yarn install
 ```
 
+## Directories
+
+-   `contracts/` - Directory for the Solidiy smart contracts
+-   `deploy/` - Directory for the deployment scripts
+-   `test/` - Directory for unit tests
+
 ## Libraries Used
 
 -   **hardhat** - Smart contract development environment
